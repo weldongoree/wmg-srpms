@@ -2,7 +2,7 @@
 
 Name:           kdevelop-python
 Summary:        Python language and documentation plugins for KDevelop
-Version:        23.08.1
+Version:        23.08.3
 Release:        1%{?dist}
 
 # Most files LGPLv2+/GPLv2+
