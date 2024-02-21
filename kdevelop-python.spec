@@ -59,7 +59,7 @@ BuildRequires:  qt5-qtwebkit-devel
 
 
 %changelog
-* Tue Feb 21 2024 Weldon Goree <weldon@librem.one> - 23.08.5
+* Wed Feb 21 2024 Weldon Goree <weldon@librem.one> - 23.08.5
 - Upgrade to 23.08.5
 * Thu Oct 12 2023 Weldon Goree <weldon@librem.one> - 23.08.1
 - Upgrade to 23.08.1
