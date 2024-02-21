@@ -2,7 +2,7 @@
 
 Name:           kdevelop-python
 Summary:        Python language and documentation plugins for KDevelop
-Version:        23.08.3
+Version:        23.08.5
 Release:        1%{?dist}
 
 # Most files LGPLv2+/GPLv2+
@@ -59,7 +59,9 @@ BuildRequires:  qt5-qtwebkit-devel
 
 
 %changelog
+* Tue Feb 21 2024 Weldon Goree <weldon@librem.one> - 23.08.5
+- Upgrade to 23.08.5
 * Thu Oct 12 2023 Weldon Goree <weldon@librem.one> - 23.08.1
 - Upgrade to 23.08.1
-* Tue Aug 07 2023 Weldon Goree <weldon@librem.one> - 23.04.3-1
+* Tue Aug 08 2023 Weldon Goree <weldon@librem.one> - 23.04.3-1
 - Created package
